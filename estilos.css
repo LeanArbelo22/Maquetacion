@@ -9,7 +9,6 @@ header{
     background-color: cornflowerblue;
     color: white;
     height: 60px;
-    ;
 }
 
 #contenedor{
@@ -20,6 +19,7 @@ header{
 
 .logo{
     text-transform: uppercase;
+    padding: 4px
 ;}
 
 
